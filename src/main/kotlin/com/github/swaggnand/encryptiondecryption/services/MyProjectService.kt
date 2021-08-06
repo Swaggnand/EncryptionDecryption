@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.swaggnand.encryptiondecryption.services
 
+import com.github.swaggnand.encryptiondecryption.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
